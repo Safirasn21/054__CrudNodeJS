@@ -8,7 +8,7 @@ const mobil = [
         merk: "Toyota",
         model: "Avanza",
         warna: "Hitam",
-        tahun: "2021",
+        tahun: "2022",
     },
     {
         merk: "Porsche",
